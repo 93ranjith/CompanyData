@@ -2,6 +2,13 @@ package org.company;
 
 public class CompanyData {
 	
+	private void employeeId() {
+		System.out.println("employee ID :5088 ");
+
+	}
+	private void employeeName() {
+		System.out.println(" name of employee ");
+	}
 	private void emolyeedetails() {
 		System.out.println("total no of workers");
 
